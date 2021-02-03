@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with making image search engines.
 - 💬 Ask me about anything:)
 - 📫 How to reach me: https://www.linkedin.com/in/priyanka-gupta-056015137/
-- ⚡ Fun fact: Also working on making antique jewellery designs
+
 
