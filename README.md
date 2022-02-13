@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on amazing Machine learning projects.
 - 🤔 I’m looking for help with making image search engines.
 - 💬 Do you have any interesting NLP based project idea? let's discuss then :)
-- 📫 How to reach me: https://www.linkedin.com/in/priyanka-gupta-056015137/
+- 📫 How to reach me: https://www.linkedin.com/in/priyanka-gupta-056015137/ | https://www.kaggle.com/agpriyanka | [MachineHack](https://machinehack.com/user/profile/ui/61c7199bf292fa79a7cf0a56)
 
 <div align="center">
 
